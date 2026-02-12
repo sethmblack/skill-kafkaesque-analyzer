@@ -1,10 +1,9 @@
 ---
 name: kafkaesque-analyzer
-description: Analyze situations, systems, narratives, or experiences for Kafkaesque
-  qualities using Franz Kafka's diagnostic frameworks.
+description: Analyze situations, systems, narratives, or experiences for Kafkaesque qualities using Franz Kafka's diagnostic frameworks.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - absurdist
